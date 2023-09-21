@@ -18,7 +18,7 @@ echo -e "\e[32mPermission Accepted...\e[0m"
 CEKEXPIRED
 else
 echo -e "\e[31mPermission Denied!\e[0m";
-echo -e "\e[31mDaftar IP Dulu mas Brooo.... Kidar-sc #\e[0m"
+echo -e "\e[31mDaftar IP Dulu mas Brooo.... HILEUD_CAU-sc #\e[0m"
 exit 0
 fi
 clear

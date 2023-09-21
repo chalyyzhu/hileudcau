@@ -235,7 +235,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "====================-[ KIDAR STORE VPN ]-==================="
+echo "====================-[ HILEUD_CAU STORE VPN ]-==================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -264,7 +264,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "====================-[ KIDAR STORE VPN ]-==================="
+echo "====================-[ HILEUD_CAU STORE VPN ]-==================="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
